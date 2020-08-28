@@ -20,7 +20,7 @@ function Header() {
         <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" alt=""/>
         <div className="header__input">
         <SearchIcon />
-         <input type="text" />
+         <input type="text" placeholder="Search Facebook" />
         </div>
        
 
