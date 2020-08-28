@@ -6,8 +6,9 @@ import Feed from './Feed';
 import Login from './Login';
 
 
+
 function App() {
-  const user=null;
+  const user="prakash"
   return (
     <div className="app">
       {!user ? (<Login />):(
